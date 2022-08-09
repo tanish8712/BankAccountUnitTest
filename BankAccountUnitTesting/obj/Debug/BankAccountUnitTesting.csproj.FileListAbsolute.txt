@@ -1,0 +1,7 @@
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\bin\Debug\BankAccountUnitTesting.exe.config
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\bin\Debug\BankAccountUnitTesting.exe
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\bin\Debug\BankAccountUnitTesting.pdb
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\obj\Debug\BankAccountUnitTesting.csproj.AssemblyReference.cache
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\obj\Debug\BankAccountUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\obj\Debug\BankAccountUnitTesting.exe
+C:\Users\Tanish Brichpuria\Desktop\7july\BankAccountUnitTesting\obj\Debug\BankAccountUnitTesting.pdb
